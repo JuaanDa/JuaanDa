@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Juan David Pareja Salas 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2F81F7&height=220&section=header&text=Juan%20David%20Pareja%20Salas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cybersecurity&descAlignY=56&descSize=20" width="100%" alt="Header"/>
 
 <a href="https://github.com/JuaanDa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Cloud+%26+DevOps+Enthusiast;Cybersecurity+%7C+Linux+%7C+Networking;Building+offline-first+apps+in+production" alt="Typing SVG" />
@@ -116,6 +116,30 @@ flowchart LR
 
 ---
 
+## 📊 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img src="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuaanDa&theme=dark&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/dist/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JuaanDa/JuaanDa/main/dist/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+  </picture>
+</p>
+
+---
+
 <div align="center">
 
 ## 📫 Let's connect
@@ -126,5 +150,8 @@ Looking for an intern or junior role in **Cloud, DevOps or Cybersecurity**? Let'
 <a href="mailto:juanps0831@gmail.com"><img src="https://img.shields.io/badge/juanps0831@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=JuaanDa&color=2F81F7&style=flat-square&label=Profile+views" alt="Profile views" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2F81F7&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
